@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppListaCurso</string>
+    <string name="duhhdragon">DUHHDRAGON</string>
+    <string name="telefone_ou_celular">Telefone ou Celular</string>
 </resources>
